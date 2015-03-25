@@ -115,7 +115,7 @@
           <enabled value="true"/>
           <foreground color="-11711155"/>
           <selectedTextColor color="-328718"/>
-          <text value="{Номер Кассира}"/>
+          <text value="1234"/>
         </properties>
       </component>
     </children>
