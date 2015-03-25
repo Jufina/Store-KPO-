@@ -5,7 +5,9 @@
     <constraints>
       <xy x="48" y="4" width="732" height="351"/>
     </constraints>
-    <properties/>
+    <properties>
+      <background color="-16777216"/>
+    </properties>
     <border type="empty">
       <size top="10" left="10" bottom="10" right="10"/>
     </border>
@@ -52,7 +54,9 @@
         <constraints>
           <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
         </constraints>
-        <properties/>
+        <properties>
+          <background color="-16777216"/>
+        </properties>
         <border type="none">
           <font/>
         </border>
